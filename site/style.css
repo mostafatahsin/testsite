@@ -1,0 +1,53 @@
+body{
+	font-family: Helvetica;
+	background: lightgrey;
+	margin: 0;
+
+}
+nav ul{
+	background-image: url("star.jpg");
+	list-style: none;
+	margin: 0;
+	padding: 50px;
+	height: 50px;
+}
+
+nav li {
+  display: inline;
+  position: center;
+
+}
+
+nav a{
+	padding-left: 150px;
+	padding-top: 70px;
+	text-decoration:none;
+	display: inline-block;
+	color: white;
+	text-align: center;
+
+}
+.name_quote{
+padding-left: 30px;
+
+}
+
+#bangla{
+padding-bottom: 10px;
+	
+}
+#quote{
+	font-size: 30px;
+	padding-right: 800px;
+	padding-top: 100px;
+
+	float: right; 
+    
+    height: 100%; 
+    background-color: white;
+
+}
+
+#mypic {
+	
+}
